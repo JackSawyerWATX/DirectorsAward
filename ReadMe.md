@@ -1,0 +1,1 @@
+The point of this program is to compare who won the DGA award for best direction of a motion picture of a particular year and compare it to who won the Oscar for in the same catagory.
